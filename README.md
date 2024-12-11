@@ -24,4 +24,4 @@ I am doing BS-IT from Air University Pakistan<br>I am currently working as Front
 ---
 [![](https://visitcount.itsvg.in/api?id=wajahat001&icon=6&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
