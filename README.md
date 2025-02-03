@@ -25,3 +25,20 @@ I am doing BS-IT from Air University Pakistan<br>I am currently working as Front
 [![](https://visitcount.itsvg.in/api?id=wajahat001&icon=6&color=9)](https://visitcount.itsvg.in)
 
 
+<img src="https://raw.githubusercontent.com/wajahat001/wajahat001/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/wajahat001/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/wajahat001/count.svg?"  />
+</div>
+
+###
+
+
