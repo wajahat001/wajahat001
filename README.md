@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am doing BS-IT from Air University Pakistan<br>I am currently working as Frontend Developer<br>I am Looking For help with Backend Development<br>I am currently learning React js Next js Express js <br>
+I am doing BS-IT from Air University Pakistan<br>I am currently working as Web developer<br>I am Looking For help with APIs <br>I am currently learning DSA and IT Support<br>
 
 
 ## 🌐 Socials:
