@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have done my Bachelors from Air University Pakistan
+I have done my Bachelors from Air University Islamabad, Pakistan
 
 
 ## 🌐 Socials:
