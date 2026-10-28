@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am doing BS-IT from Air University Pakistan<br>I am currently working as Web developer<br>I am Looking For help with APIs <br>I am currently learning DSA and IT Support<br>
+I have done my Bachelors from Air University Pakistan
 
 
 ## 🌐 Socials:
